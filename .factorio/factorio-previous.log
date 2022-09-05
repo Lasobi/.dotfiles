@@ -1,0 +1,82 @@
+   0.000 2022-08-24 14:18:55; Factorio 1.1.61 (build 59839, linux64, steam)
+   0.031 Operating system: Linux (Garuda Soaring)
+   0.031 Program arguments: "/home/lars/.local/share/Steam/steamapps/common/Factorio/bin/x64/factorio" 
+   0.031 Read data path: /home/lars/.local/share/Steam/steamapps/common/Factorio/data
+   0.031 Write data path: /home/lars/.factorio [361431/953565MB]
+   0.031 Binaries path: /home/lars/.local/share/Steam/steamapps/common/Factorio/bin
+   0.039 System info: [CPU: AMD Ryzen 7 5800X 8-Core Processor, 16 cores, RAM: 32006 MB]
+   0.039 Environment: DISPLAY=:0 WAYLAND_DISPLAY=<unset> DESKTOP_SESSION=plasma XDG_SESSION_DESKTOP=KDE XDG_CURRENT_DESKTOP=KDE __GL_FSAA_MODE=<unset> __GL_LOG_MAX_ANISO=<unset> __GL_SYNC_TO_VBLANK=<unset> __GL_SORT_FBCONFIGS=<unset> __GL_YIELD=<unset>
+   0.039 Display options: [FullScreen: 0] [VSync: 1] [UIScale: automatic (100.0%)] [Native DPI: 1] [Screen: 255] [Special: lmw] [Lang: no]
+   0.484 Available displays: 2
+   0.484  [0]: LG ULTRAWIDE 34" - {[0,260], 2560x1080, SDL_PIXELFORMAT_RGB888, 60Hz}
+   0.484  [1]: DELL IN2030M 20" - {[2560,0], 900x1600, SDL_PIXELFORMAT_RGB888, 60Hz}
+   0.484 Failed to get primary display index, defaulting to 0.
+   0.804 Initialised OpenGL:[0] NVIDIA GeForce GTX 1070/PCIe/SSE2; driver: 3.3.0 NVIDIA 515.65.01
+   0.804   [Extensions] s3tc:yes; KHR_debug:yes; ARB_clear_texture:yes, ARB_copy_image:yes
+   0.804   [Version] 3.3
+   0.804 Graphics settings preset: very-high
+   0.804   Dedicated video memory size 8192 MB
+   0.885 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: high-quality] [Color: 32bit]
+   0.885                   [Max threads (load/render): 32/8] [Max texture size: 0] [Tex.Stream.: 0] [Rotation quality: normal] [Other: STDCWT] [B:0,C:0,S:100]
+   0.905 [Audio] Backend:default; Depth:16, Channel:2, Frequency:44100; MixerQuality:linear
+   1.096 Loading mod core 0.0.0 (data.lua)
+   1.122 Loading mod base 1.1.61 (data.lua)
+   1.232 Loading mod base 1.1.61 (data-updates.lua)
+   1.277 Checksum for core: 1720724266
+   1.277 Checksum of base: 2195340303
+   1.400 Prototype list checksum: 3034860339
+   1.426 Loading sounds...
+   1.719 Info PlayerData.cpp:73: Local player-data.json unavailable
+   1.719 Info PlayerData.cpp:76: Cloud player-data.json available, timestamp 1661297332
+   1.795 Initial atlas bitmap size is 16384
+   1.814 Created atlas bitmap 16384x16356 [none]
+   1.816 Created atlas bitmap 16384x13240 [none]
+   1.816 Created atlas bitmap 8192x4188 [decal]
+   1.816 Created atlas bitmap 16384x5568 [low-object, linear-minification]
+   1.817 Created atlas bitmap 8192x4416 [mipmap, linear-minification, linear-magnification, linear-mip-level]
+   1.817 Created atlas bitmap 16384x6064 [terrain, mipmap, linear-minification, linear-mip-level]
+   1.817 Created atlas bitmap 4096x3216 [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
+   1.817 Created atlas bitmap 4096x1856 [smoke, mipmap, linear-minification, linear-magnification]
+   1.817 Created atlas bitmap 4096x3088 [mipmap]
+   1.817 Created atlas bitmap 8192x2240 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+   1.817 Created atlas bitmap 8192x1496 [alpha-mask]
+   1.820 Created atlas bitmap 16384x14776 [shadow, linear-magnification, alpha-mask]
+   1.820 Created atlas bitmap 8192x2352 [shadow, mipmap, linear-magnification, alpha-mask]
+   1.820 Created atlas bitmap 2048x240 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+   1.825 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+   3.512 Parallel Sprite Loader initialized (threads: 15)
+   7.097 Sprites loaded
+   7.125 Generated mipmaps (4) for atlas [3] of size 16384x5568   
+   7.129 Generated mipmaps (3) for atlas [4] of size 8192x4416   
+   7.203 Generated mipmaps (3) for atlas [5] of size 16384x6064   
+   7.212 Generated mipmaps (3) for atlas [6] of size 4096x3216   
+   7.217 Generated mipmaps (3) for atlas [7] of size 4096x1856   
+   7.231 Generated mipmaps (3) for atlas [8] of size 4096x3088   
+   7.250 Generated mipmaps (5) for atlas [9] of size 8192x2240   
+   7.251 Generated mipmaps (3) for atlas [12] of size 8192x2352   
+   7.263 Custom mipmaps uploaded.
+   7.339 Factorio initialised
+   7.339 Steam Storage Quota: 4652/4768
+  83.537 Loading map /home/lars/.factorio/saves/Normal.zip: 20324728 bytes.
+  83.547 Loading level.dat: 57856481 bytes.
+  83.550 Info Scenario.cpp:199: Map version 1.1.61-0
+  84.510 Loading script.dat: 1182 bytes.
+  84.512 Checksum for script /home/lars/.factorio/temp/currently-playing/control.lua: 3795083680
+ 304.513 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+ 304.931 Info AppManagerStates.cpp:1902: Saving finished
+ 606.075 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+ 606.459 Info AppManagerStates.cpp:1902: Saving finished
+ 907.253 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+ 907.636 Info AppManagerStates.cpp:1902: Saving finished
+1207.683 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+1208.081 Info AppManagerStates.cpp:1902: Saving finished
+1508.494 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+1508.875 Info AppManagerStates.cpp:1902: Saving finished
+1810.538 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+1810.937 Info AppManagerStates.cpp:1902: Saving finished
+2111.034 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+2111.441 Info AppManagerStates.cpp:1902: Saving finished
+2188.516 Info AppManagerStates.cpp:1902: Saving finished
+2190.227 Quitting: user-quit.
+2190.402 Steam API shutdown.
+2190.403 Goodbye

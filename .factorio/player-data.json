@@ -1,0 +1,430 @@
+
+{
+  "available-campaign-levels": 
+  {
+    "beta": 
+    {
+      "level-01": "easy",
+      "level-02": "easy"
+    },
+    "demo": 
+    {
+      "level-01": "hard",
+      "level-02": "easy",
+      "level-03": "easy"
+    },
+    "tight-spot": 
+    {
+      "level-01": "hard"
+    },
+    "transport-belt-madness": 
+    {
+      "level-01": "hard"
+    },
+    "tutorial": 
+    {
+      "level-01": "hard"
+    }
+  },
+  "finished-campaigns": 
+  {
+    "demo": "easy"
+  },
+  "tips": 
+  {
+    "introduction": 
+    {
+      "status": "completed"
+    },
+    "show-info": 
+    {
+      "status": "completed"
+    },
+    "e-confirm": 
+    {
+      "status": "completed"
+    },
+    "clear-cursor": 
+    {
+      "status": "completed"
+    },
+    "pipette": 
+    {
+      "status": "completed"
+    },
+    "stack-transfers": 
+    {
+      "status": "completed-without-tutorial"
+    },
+    "entity-transfers": 
+    {
+      "status": "completed-without-tutorial"
+    },
+    "z-dropping": 
+    {
+      "status": "completed"
+    },
+    "shoot-targeting": 
+    {
+      "status": "completed"
+    },
+    "bulk-crafting": 
+    {
+      "status": "completed"
+    },
+    "rotating-assemblers": 
+    {
+      "status": "completed"
+    },
+    "circuit-network": 
+    {
+      "status": "completed"
+    },
+    "inserters": 
+    {
+      "status": "completed"
+    },
+    "burner-inserter-refueling": 
+    {
+      "status": "completed"
+    },
+    "long-handed-inserters": 
+    {
+      "status": "completed"
+    },
+    "move-between-labs": 
+    {
+      "status": "completed"
+    },
+    "insertion-limits": 
+    {
+      "status": "completed"
+    },
+    "limit-chests": 
+    {
+      "status": "completed"
+    },
+    "transport-belts": 
+    {
+      "status": "completed"
+    },
+    "belt-lanes": 
+    {
+      "status": "completed"
+    },
+    "splitters": 
+    {
+      "status": "completed"
+    },
+    "splitter-filters": 
+    {
+      "status": "completed"
+    },
+    "underground-belts": 
+    {
+      "status": "completed"
+    },
+    "electric-network": 
+    {
+      "status": "completed"
+    },
+    "steam-power": 
+    {
+      "status": "completed"
+    },
+    "electric-pole-connections": 
+    {
+      "status": "completed"
+    },
+    "low-power": 
+    {
+      "status": "completed"
+    },
+    "connect-switch": 
+    {
+      "status": "locked"
+    },
+    "copy-entity-settings": 
+    {
+      "status": "completed"
+    },
+    "copy-paste-trains": 
+    {
+      "status": "completed"
+    },
+    "copy-paste-filters": 
+    {
+      "status": "completed"
+    },
+    "copy-paste-requester-chest": 
+    {
+      "status": "completed"
+    },
+    "copy-paste-spidertron": 
+    {
+      "status": "completed"
+    },
+    "drag-building": 
+    {
+      "status": "completed"
+    },
+    "drag-building-poles": 
+    {
+      "status": "completed"
+    },
+    "pole-dragging-coverage": 
+    {
+      "status": "completed"
+    },
+    "drag-building-underground-belts": 
+    {
+      "status": "completed"
+    },
+    "fast-belt-bending": 
+    {
+      "status": "completed"
+    },
+    "fast-obstacle-traversing": 
+    {
+      "status": "completed"
+    },
+    "trains": 
+    {
+      "status": "completed"
+    },
+    "rail-building": 
+    {
+      "status": "completed"
+    },
+    "train-stops": 
+    {
+      "status": "completed-without-tutorial"
+    },
+    "rail-signals-basic": 
+    {
+      "status": "completed-without-tutorial"
+    },
+    "rail-signals-advanced": 
+    {
+      "status": "completed-without-tutorial"
+    },
+    "gate-over-rail": 
+    {
+      "status": "completed"
+    },
+    "pump-connection": 
+    {
+      "status": "completed"
+    },
+    "train-stop-same-name": 
+    {
+      "status": "completed"
+    },
+    "logistic-network": 
+    {
+      "status": "completed"
+    },
+    "personal-logistics": 
+    {
+      "status": "completed"
+    },
+    "construction-robots": 
+    {
+      "status": "completed"
+    },
+    "passive-provider-chest": 
+    {
+      "status": "completed"
+    },
+    "storage-chest": 
+    {
+      "status": "completed"
+    },
+    "requester-chest": 
+    {
+      "status": "completed"
+    },
+    "active-provider-chest": 
+    {
+      "status": "completed"
+    },
+    "buffer-chest": 
+    {
+      "status": "completed"
+    },
+    "ghost-building": 
+    {
+      "status": "completed"
+    },
+    "ghost-rail-planner": 
+    {
+      "status": "completed"
+    },
+    "copy-paste": 
+    {
+      "status": "completed"
+    },
+    "fast-replace": 
+    {
+      "status": "completed"
+    },
+    "fast-replace-direction": 
+    {
+      "status": "completed"
+    },
+    "fast-replace-belt-splitter": 
+    {
+      "status": "completed"
+    },
+    "fast-replace-belt-underground": 
+    {
+      "status": "completed"
+    }
+  },
+  "console-history": 
+  [
+    "æææææ",
+    "¨/c game.speed = 5",
+    "¨/c game.speed = 2",
+    "/c game.speed = 2",
+    "/c game.speed = 5",
+    "/c game.speed =20",
+    "/c game.speed = 50",
+    "/c game.speed = 1"
+  ],
+  "last-played": 
+  {
+    "type": "single-player",
+    "save-name": "Normal"
+  },
+  "latest-multiplayer-connections": 
+  [
+    
+    {
+      "address": "server.larsbirkeland.no"
+    },
+    
+    {
+      "address": "192.168.1.97:34197"
+    },
+    
+    {
+      "address": "192.168.1.237:0"
+    }
+  ],
+  "service-username": "Lasobi",
+  "service-token": "1e529f56245aab7e895febbd77f24b",
+  "shortcut-bar": 
+  [
+    
+    {
+      "name": "toggle-alt-mode",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "undo",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "copy",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "cut",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "paste",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "import-string",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "give-blueprint",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "give-blueprint-book",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "give-deconstruction-planner",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "give-upgrade-planner",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "toggle-personal-roboport",
+      "docked": true,
+      "enabled": true
+    },
+    
+    {
+      "name": "toggle-equipment-movement-bonus",
+      "docked": true,
+      "enabled": true
+    }
+  ],
+  "editor-lua-snippets": 
+  [
+    
+    {
+      "name": "Example (Turn trees into biters)",
+      "code": "local surface = game.player.surface\nlocal entities = surface.find_entities_filtered{area = area, type = 'tree'}\nfor k, tree in pairs(entities) do\n  local position = tree.position\n  tree.destroy()\n  surface.create_entity{name = 'small-biter', position = position}\nend"
+    }
+  ],
+  "last-played-version": 
+  {
+    "game_version": "1.1.61",
+    "build_version": 59839,
+    "build_mode": "steam",
+    "platform": "linux64"
+  },
+  "blueprint-view": "grid",
+  "main-menu-simulations-played": 
+  [
+    "artillery",
+    "burner_city",
+    "forest_fire",
+    "biter_base_player_attack",
+    "oil_refinery",
+    "nuclear_power",
+    "oil_pumpjacks",
+    "logistic_robots",
+    "biter_base_steamrolled",
+    "train_station",
+    "big_defense",
+    "brutal_defeat",
+    "spider_ponds",
+    "biter_base_artillery",
+    "train_junction",
+    "chase_player",
+    "early_smelting",
+    "lab",
+    "biter_base_laser_defense"
+  ]
+}
