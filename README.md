@@ -1,2 +1,2 @@
-# .dotfiles
+# dotfiles
 Collection of Linux dotfiles.
